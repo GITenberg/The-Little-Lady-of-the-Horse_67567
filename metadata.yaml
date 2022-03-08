@@ -1,0 +1,30 @@
+_repo: The-Little-Lady-of-the-Horse_67567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2022-03-05'
+identifiers:
+  gutenberg: '67567'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924014518991/mode/2up
+pgterms:marc905: 20200912144318raymone
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: D A Alexander, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by Cornell University Digital Collections)
+publication_note: United States :Roberts Brothers,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Little Lady of the Horse
+url: http://www.gutenberg.org/ebooks/67567
